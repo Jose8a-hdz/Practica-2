@@ -1,1 +1,2 @@
 # Practica-2
+En esta practica vemos como se creo una figura esta figura se mueve hacia los lados por medio de cordenadas 10 grados hacia uno de los puntos de su eleccion, hay dos formas de hacerlo la primera es que la figura que uno crea sea la que se mueva y otro es cambiar la forma de la tortuga mediante el codigo de shape('circle') en lugar de circle le podemos poner cualquier figura o nombre pero tiene sus limitaciones y tiene que ser en ingles.
